@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Cucumber" time="14.611" tests="3" skipped="0" failures="0" errors="0">
-<testcase classname="Selección de fechas en el Datepicker de jQuery UI" name="Navegar al mes siguiente y seleccionar el día 10" time="5.942">
+<testsuite name="Cucumber" time="14.283" tests="3" skipped="0" failures="0" errors="0">
+<testcase classname="Selección de fechas en el Datepicker de jQuery UI" name="Navegar al mes siguiente y seleccionar el día 10" time="5.065">
 <system-out><![CDATA[
 Dado que el usuario abre la página del datepicker de jQuery UI..............passed
 Cuando navega al mes siguiente en el calendario.............................passed
@@ -8,14 +8,14 @@ Y selecciona el día 10 del mes siguiente....................................pas
 Entonces la fecha mostrada debe corresponder al día 10 del mes siguiente....passed
 ]]></system-out>
 </testcase>
-<testcase classname="Selección de fechas en el Datepicker de jQuery UI" name="Seleccionar el día 15 del mes actual y validar la fecha" time="2.564">
+<testcase classname="Selección de fechas en el Datepicker de jQuery UI" name="Seleccionar el día 15 del mes actual y validar la fecha" time="2.425">
 <system-out><![CDATA[
 Dado que el usuario abre la página del datepicker de jQuery UI..............passed
 Cuando selecciona el día 15 del mes actual desde el calendario..............passed
 Entonces la fecha mostrada debe corresponder al día 15 del mes actual.......passed
 ]]></system-out>
 </testcase>
-<testcase classname="Selección de fechas en el Datepicker de jQuery UI" name="Validar que el campo no permite edición manual" time="2.606">
+<testcase classname="Selección de fechas en el Datepicker de jQuery UI" name="Validar que el campo no permite edición manual" time="2.331">
 <system-out><![CDATA[
 Dado que el usuario abre la página del datepicker de jQuery UI..............passed
 Cuando intenta escribir manualmente "01/01/2000" en el campo de fecha.......passed
